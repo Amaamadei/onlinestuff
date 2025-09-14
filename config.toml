@@ -1,0 +1,13 @@
+[global]
+# Отключить сбор статистики использования
+gatherUsageStats = false
+
+[browser]
+# Отключить отправку статистики
+gatherUsageStats = false
+
+[server]
+# Настройки сервера
+port = 8501
+address = "localhost"
+
